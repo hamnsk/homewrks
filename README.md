@@ -1,3 +1,5 @@
+![BMW Wheel](images/_ASA3419.jpg)
+
 # Домашнее задание к занятию 11.2 "Кеширование Redis/memcached"
 
 ---
